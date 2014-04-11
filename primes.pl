@@ -2,7 +2,7 @@
 # $Id$  $Revision$  $HeadURL$  $Date$
 #
 # Starting with the first 9 prime numbers, this program calculates whether
-# a number is prime, or what its prime factors are, up to 9,999,999.
+# a number is prime, or what its prime factors are, up to 10,000,000.
 use strict;
 use warnings;
 our $VERSION=1.0;
