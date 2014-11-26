@@ -3,6 +3,9 @@
 #
 # Starting with the first 9 prime numbers, this program calculates whether
 # a number is prime, or what its prime factors are, up to 10,000,000.
+#
+# should be named something like prime_factors.pl instead eh
+#
 use strict;
 use warnings;
 our $VERSION=1.0;
