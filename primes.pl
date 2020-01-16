@@ -25,6 +25,8 @@
 # pi(10_000_000) = 664579
 #
 # ie: there are 168 primes from 1-1000 and 664,579 from 1-10,000,000
+# cf: https://primes.utm.edu/howmany.html
+#
 # Now verified to calculate correct number of primes.
 #
 use strict;
