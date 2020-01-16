@@ -24,8 +24,8 @@
 # pi(1000)       = 168
 # pi(10_000_000) = 664579
 #
-# ie: number of primes by 1000 and 10_000_000 (ten million, Perl likes _'s)
-# program now verified to calculate correct number of primes.
+# ie: there are 168 primes from 1-1000 and 664,579 from 1-10,000,000
+# Now verified to calculate correct number of primes.
 #
 use strict;
 use warnings;
