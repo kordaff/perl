@@ -34,7 +34,7 @@ use warnings;
 our $VERSION=1.1;
 
 my %factor;
-my @primes=(2,3,5,7,9,11,13,17,19);
+my @primes=(2,3,5,7,11,13,17,19);
 
 my $n=2;
 my $count=0;
